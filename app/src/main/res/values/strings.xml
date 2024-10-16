@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">AplicacionMusical</string>
+    <string-array name="sp_Elecciones">
+        <item>POP</item>
+        <item>ROCK</item>
+        <item>RyB</item>
+    </string-array>
+    <string name="rb_eleccion_1_1">Michael Jackson</string>
+    <string name="rb_eleccion_1.2">Madonna</string>
+    <string name="rb_eleccion_1.3">Lady Gaga</string>
+    <string name="rb_eleccion_2.1">Linkin Park</string>
+    <string name="rb_eleccion_2.2">Iron Maiden</string>
+    <string name="rb_eleccion_2.3">AC/DC</string>
+    <string name="rb_eleccion_3.1">Travis Scott</string>
+    <string name="rb_eleccion_3.2">Drake</string>
+    <string name="rb_eleccion_3.3">The Weekdn</string>
+    <string name="lbl_info">Discos del artista</string>
+    <string name="cb_eleccion1.1">Bad</string>
+    <string name="cb_eleccion1.2">Thriller</string>
+    <string name="cb_eleccion1.3">Dangerous</string>
+    <string name="cb_eleccion4.1">JAJA</string>
+    <string name="cb_eleccion4.2">JEJE</string>
+    <string name="cb_eleccion4.3">JIJI</string>
+    <string name="cb_eleccion5.1">Jojo</string>
+    <string name="cb_eleccion5.2">Juju</string>
+    <string name="cb_eleccion5.3">LALA</string>
+    <string name="cb_eleccion6.1">Pato</string>
+    <string name="cb_eleccion6.2">Pito</string>
+    <string name="cb_eleccion6.3">Peto</string>
+    <string name="lbl_rating1.1">0</string>
+    <string name="lbl_rating1.2">0</string>
+    <string name="lbl_rating1.3">0</string>
+    <string name="btn_clear">Nueva valoracion</string>
+    <string name="cb_eleccion2_1">Pepe</string>
+    <string name="cb_eleccion2_2">Pepa</string>
+    <string name="cb_eleccion2_3">Pepita</string>
+    <string name="cb_eleccion3_1">Lamacoilo</string>
+    <string name="cb_eleccion3_2">Lamacoilo2</string>
+    <string name="cb_eleccion3_3">Lamacoilo3</string>
+    <string name="cb_eleccion7_1">Pelele</string>
+    <string name="cb_eleccion7_2">QWQE</string>
+    <string name="cb_eleccion7_3">POTA</string>
+    <string name="cb_eleccion8_1">Papaya</string>
+    <string name="cb_eleccion8_2">Papayon</string>
+    <string name="cb_eleccion8_3">Papayita</string>
+    <string name="cb_eleccion9_1">Oro</string>
+    <string name="cb_eleccion9_2">Plata</string>
+    <string name="cb_eleccion9_3">Bronce</string>
+
+
+</resources>
